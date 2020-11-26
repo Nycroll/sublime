@@ -1,0 +1,23 @@
+{
+  "name": "sublime-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [
+    "Hylgis"
+  ],
+  "author": "Hylgis#9695",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "fivem-js": "^1.4.0",
+    "nodemon": "^2.0.6"
+  },
+  "devDependencies": {
+    "ytdl-core": "^4.0.6"
+  }
+}
